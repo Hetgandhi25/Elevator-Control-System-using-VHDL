@@ -32,6 +32,7 @@ This project implements a **three-floor elevator control system** using **VHDL**
 ---
 ## 📊 **State Diagram**
 The project uses a **7-state FSM (Finite State Machine)**:
+
 1️⃣ **F1** (Floor 1)  
 2️⃣ **F2** (Floor 2)  
 3️⃣ **F3** (Floor 3)  
@@ -123,10 +124,4 @@ The elevator system is implemented using **VHDL** and follows a structured appro
 📟 Implement a **Display Panel** showing the current floor.  
 🔊 Introduce **Voice Alerts** for better user interaction.  
 ⚡ Optimize power consumption by refining motor logic.  
-
----
-## 📜 **License**
-🔓 This project is licensed under the **MIT License**.  
-
-📌 **Contributions are welcome!** Feel free to fork this repository and improve the system. 🚀
 
