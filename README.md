@@ -37,7 +37,6 @@ The project uses a **7-state FSM (Finite State Machine)**:
 6. **MD2 (Moving Down to Floor 2)**
 7. **MD1 (Moving Down to Floor 1)**
 
-![Elevator FSM Diagram](link_to_diagram_if_any)
 
 ## **Implementation Details**
 The elevator system is implemented using **VHDL** and follows a structured approach:
@@ -116,4 +115,4 @@ The elevator system is implemented using **VHDL** and follows a structured appro
 - Optimize power consumption by refining motor logic.
 
 ## **License**
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** - see the (LICENSE) file for details.
