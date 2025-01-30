@@ -16,7 +16,6 @@ This project implements a **three-floor elevator control system** using **VHDL**
 - [🔄 Working Mechanism](#-working-mechanism)
 - [🛠️ Testing & Debugging](#-testing--debugging)
 - [🚀 Future Enhancements](#-future-enhancements)
-- [📜 License](#-license)
 
 ---
 ## ✨ **Features**
